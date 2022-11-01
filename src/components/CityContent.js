@@ -69,8 +69,8 @@ function CityContent() {
                         return (
                           <SwiperSlide key={index} className='h-full pl-5 md:pl-5 pr-5'>
                             <div className='h-screen m-0 relative'>
-                              <h1 className="transition duration-500 tracking-tight absolute top-[47%] md:top-[45%] leading-5 left-[10%] md:left-[10%] text-[13px] md:text-sm text-white font-bold">{it.title}</h1>
-                              <p className='transition duration-500 text-sky absolute top-[50%] md:top-[52%] left-[10%] text-[10px] md:text-xs'>{it.p}</p>
+                              <h1 className="transition duration-500 tracking-tight absolute top-[37%] md:top-[45%] leading-5 left-[10%] md:left-[10%] text-[13px] md:text-sm text-white font-bold">{it.title}</h1>
+                              <p className='transition duration-500 text-sky absolute top-[42%] md:top-[52%] left-[10%] text-[10px] md:text-xs'>{it.p}</p>
                               <div className='transition duration-500 ease-in hover:scale-105'>
                                 <div style={{ backgroundImage: `url(${it.img})` }} className='h-[350px] bg-cover bg-center rounded-3xl shadow-[0_8px_30px_rgb(0,0,0,0.50)]'></div>
                               </div>

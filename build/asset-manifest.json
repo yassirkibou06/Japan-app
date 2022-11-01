@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/japan-app/static/css/main.2b65f8f3.css",
+    "main.js": "/japan-app/static/js/main.f0bb7ea1.js",
+    "static/media/romeo-a-AxFRl6cHOlM-unsplash.jpg": "/japan-app/static/media/romeo-a-AxFRl6cHOlM-unsplash.2bb517c3db851bbdad7a.jpg",
+    "static/media/alex_rainer-2_f83Sqwdrg-unsplash.jpg": "/japan-app/static/media/alex_rainer-2_f83Sqwdrg-unsplash.b9c9bf4f941122f1b3de.jpg",
+    "static/media/bjorn-DO_UCDkM94U-unsplash.jpg": "/japan-app/static/media/bjorn-DO_UCDkM94U-unsplash.ca10aaed1bc7fbea1381.jpg",
+    "static/media/david-emrich-C6WKsmKMqZA-unsplash.jpg": "/japan-app/static/media/david-emrich-C6WKsmKMqZA-unsplash.91078a8d8d604d01f901.jpg",
+    "static/media/gwen-king-3OdajQGd9sk-unsplash.jpg": "/japan-app/static/media/gwen-king-3OdajQGd9sk-unsplash.c4a4e9d62cbe09c387cf.jpg",
+    "static/media/utakaha-6nadGHDYkrs-unsplash.jpg": "/japan-app/static/media/utakaha-6nadGHDYkrs-unsplash.234bd81fa100942ff2c5.jpg",
+    "static/media/pavlo-klein-oLm6joZZs-Y-unsplash.jpg": "/japan-app/static/media/pavlo-klein-oLm6joZZs-Y-unsplash.3209aa3b2c573d1e68c5.jpg",
+    "static/media/vien-dinh-miFUYP8z7rk-unsplash.jpg": "/japan-app/static/media/vien-dinh-miFUYP8z7rk-unsplash.c042773d7cf73de495af.jpg",
+    "static/media/luca-florio-QNSbdZDahq8-unsplash.jpg": "/japan-app/static/media/luca-florio-QNSbdZDahq8-unsplash.7b9f94f3f7cca6c51d34.jpg",
+    "static/media/cookie-niyompong-NJMxRdrFZg8-unsplash.jpg": "/japan-app/static/media/cookie-niyompong-NJMxRdrFZg8-unsplash.24600b58d9e1907140d9.jpg",
+    "static/media/zhijian-dai-nCGpqcaSRnU-unsplash.jpg": "/japan-app/static/media/zhijian-dai-nCGpqcaSRnU-unsplash.9428e3f79dc3a69a1972.jpg",
+    "static/media/paul-cuoco-8NwBELnFYHg-unsplash.jpg": "/japan-app/static/media/paul-cuoco-8NwBELnFYHg-unsplash.0eb92dac370f2ef653c2.jpg",
+    "static/media/sorasak-_UIN-pFfJ7c-unsplash.jpg": "/japan-app/static/media/sorasak-_UIN-pFfJ7c-unsplash.0207065ac8fd67b75831.jpg",
+    "static/media/ester-marie-doysabas-RkY88X-Slfg-unsplash.jpg": "/japan-app/static/media/ester-marie-doysabas-RkY88X-Slfg-unsplash.a160a1340b262ac0d769.jpg",
+    "static/media/louie-martinez-IocJwyqRv3M-unsplash.jpg": "/japan-app/static/media/louie-martinez-IocJwyqRv3M-unsplash.5422f9b325edf54c53c0.jpg",
+    "static/media/shai-pal-RMjHh0xjaSI-unsplash.jpg": "/japan-app/static/media/shai-pal-RMjHh0xjaSI-unsplash.5d68d31a06f79c6209a2.jpg",
+    "static/media/pexels-nick-kwan-2614818.jpg": "/japan-app/static/media/pexels-nick-kwan-2614818.1d53a45a7f8f968fa6b9.jpg",
+    "static/media/kevin-ma-CfykAoITiDY-unsplash.jpg": "/japan-app/static/media/kevin-ma-CfykAoITiDY-unsplash.7df62a4771668c821e99.jpg",
+    "static/media/kevin-doran-CKzKdM5Tgb4-unsplash.jpg": "/japan-app/static/media/kevin-doran-CKzKdM5Tgb4-unsplash.16a5e1d7775231202f5a.jpg",
+    "static/media/pexels-aleksandar-pasaric-1344537.jpg": "/japan-app/static/media/pexels-aleksandar-pasaric-1344537.1325062d9b5a0bacce7f.jpg",
+    "static/media/tianshu-liu-SBK40fdKbAg-unsplash.jpg": "/japan-app/static/media/tianshu-liu-SBK40fdKbAg-unsplash.44299f3a57b46b492dc1.jpg",
+    "index.html": "/japan-app/index.html",
+    "main.2b65f8f3.css.map": "/japan-app/static/css/main.2b65f8f3.css.map",
+    "main.f0bb7ea1.js.map": "/japan-app/static/js/main.f0bb7ea1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b65f8f3.css",
+    "static/js/main.f0bb7ea1.js"
+  ]
+}

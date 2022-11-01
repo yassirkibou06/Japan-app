@@ -34,7 +34,7 @@ function NavBar() {
                     <h1 className='font-black text-sm tracking-wide'><span className='text-orange'>J</span>apan</h1>
                     <div className='flex justify-center items-center'>
                         <Link to='/Login'>
-                            <div className='font-bold text-xs bg-orange py-[7px] px-[15px] md:py-[10px] md:px-[20px] mr-5 rounded-full'>
+                            <div className='font-bold text-xs bg-orange py-[8px] px-[17px] md:py-[10px] md:px-[20px] mr-5 rounded-full'>
                                 Login In
                             </div>
                         </Link>
