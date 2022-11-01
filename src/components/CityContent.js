@@ -11,7 +11,7 @@ import 'swiper/css/navigation';
 function CityContent() {
   return (
     <>
-      <div className='w-full h-[120%] relative m-0'>
+      <div className='w-full h-[120%] m-0'>
         <Swiper
           // install Swiper modules
           modules={[Navigation]}
@@ -33,8 +33,8 @@ function CityContent() {
           {/*  //////image slider/////  */}
           {List.map((item, index) => {
             return (
-              <SwiperSlide key={index} className='w-full h-screen overflow-hidden'>
-                <div className='w-full h-screen'>
+              <SwiperSlide key={index} className='w-full overflow-hidden'>
+                <div className='w-full'>
                   <h1 className='Container tracking-tight absolute top-32 text-lg md:text-[60px] text-white font-bold'>{item.title}</h1>
                   <div className='absolute inset-0 bg-gray-900 opacity-50'></div>
                   <div style={{ backgroundImage: `url(${item.img})` }} className='h-[120%] bg-cover bg-right'>
@@ -62,18 +62,15 @@ function CityContent() {
                         "--swiper-pagination-color": "#FFF",
                         "--swiper-navigation-size": "65px"
                       }}
-                      className='absolute top-[43%] w-[180%] md:w-[100%]'
+                      className='top-[43%] right-[50%] w-[210%] md:w-[150%]'
                     >
                       {/*////////// Cards /////////*/}
                       {item.city.map((it, index) => {
                         return (
-                          <SwiperSlide key={index} className='h-full pl-5 md:pl-5 pr-5'>
-                            <div className='h-screen m-0 relative'>
-                              <h1 className="transition duration-500 tracking-tight absolute top-[47%] md:top-[45%] leading-5 left-[10%] md:left-[10%] text-[13px] md:text-sm text-white font-bold">{it.title}</h1>
-                              <p className='transition duration-500 text-sky absolute top-[50%] md:top-[52%] left-[10%] text-[10px] md:text-xs'>{it.p}</p>
-                              <div className='transition duration-500 ease-in hover:scale-105'>
-                                <div style={{ backgroundImage: `url(${it.img})` }} className='h-[350px] bg-cover bg-center rounded-3xl shadow-[0_8px_30px_rgb(0,0,0,0.50)]'></div>
-                              </div>
+                          <SwiperSlide key={index} className='pl-5 md:pl-5 pr-5 mt-10'>
+                            <div style={{ backgroundImage: `url(${it.img})` }} className='transition duration-500 ease-in hover:scale-105 h-[350px] bg-cover bg-center rounded-3xl shadow-[0_8px_30px_rgb(0,0,0,0.50)] relative'>
+                            <h1 className="transition duration-500 tracking-tight absolute top-[79%] md:top-[78%] leading-5 left-[10%] md:left-[10%] text-[13px] md:text-sm text-white font-bold">{it.title}</h1>
+                            <p className='transition duration-500 text-sky absolute top-[89%] md:top-[90%] left-[10%] text-[10px] md:text-xs'>{it.p}</p>
                             </div>
                           </SwiperSlide>
                         )
