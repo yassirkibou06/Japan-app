@@ -1,0 +1,48 @@
+@tailwind base;
+*::-webkit-scrollbar {
+    width: 9px;
+}
+
+*::-webkit-scrollbar-track {
+    background: white;
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: #55A6C4;
+    border-radius: 15px;
+    border: 1px solid  whitesmoke;
+}
+@tailwind components;
+@tailwind utilities;
+
+/* Chrome, Edge, and Safari */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,400;0,500;0,700;0,900;1,100&display=swap');
+
+@layer base {
+    body {
+        @apply font-[Montserrat]
+        /*Montserrat*/
+    }
+
+    .Container {
+        @apply px-[15px] py-[10px] m-[0px] lg:px-[55px] absolute z-10 w-full lg:w-[100%] text-white
+    }
+
+    .deleteBtn {
+        @apply text-white my-[20px] hover:text-orange
+    }
+
+    .sidBar li {
+        @apply flex items-center p-[20px] hover:bg-orange text-white
+    }
+
+    a {
+        @apply p-[10px]
+    }
+
+    .img {
+        @apply bg-[url('./assets/images/tokyo/louie-martinez-IocJwyqRv3M-unsplash.jpg')] h-screen
+    }
+    
+}
