@@ -62,7 +62,7 @@ function CityContent() {
                         "--swiper-pagination-color": "#FFF",
                         "--swiper-navigation-size": "65px"
                       }}
-                      className='top-[43%] right-[50%] w-[210%] md:w-[150%]'
+                      className='top-[40%] md:top-[35%] right-[50%] w-[210%] md:w-[150%]'
                     >
                       {/*////////// Cards /////////*/}
                       {item.city.map((it, index) => {
