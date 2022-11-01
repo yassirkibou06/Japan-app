@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/japan-app/static/css/main.d1d13507.css",
-    "main.js": "/japan-app/static/js/main.6b9fa419.js",
+    "main.css": "/japan-app/static/css/main.d3940a3e.css",
+    "main.js": "/japan-app/static/js/main.1e7a23cf.js",
     "static/media/romeo-a-AxFRl6cHOlM-unsplash.jpg": "/japan-app/static/media/romeo-a-AxFRl6cHOlM-unsplash.2bb517c3db851bbdad7a.jpg",
     "static/media/alex_rainer-2_f83Sqwdrg-unsplash.jpg": "/japan-app/static/media/alex_rainer-2_f83Sqwdrg-unsplash.b9c9bf4f941122f1b3de.jpg",
     "static/media/bjorn-DO_UCDkM94U-unsplash.jpg": "/japan-app/static/media/bjorn-DO_UCDkM94U-unsplash.ca10aaed1bc7fbea1381.jpg",
@@ -24,11 +24,11 @@
     "static/media/pexels-aleksandar-pasaric-1344537.jpg": "/japan-app/static/media/pexels-aleksandar-pasaric-1344537.1325062d9b5a0bacce7f.jpg",
     "static/media/tianshu-liu-SBK40fdKbAg-unsplash.jpg": "/japan-app/static/media/tianshu-liu-SBK40fdKbAg-unsplash.44299f3a57b46b492dc1.jpg",
     "index.html": "/japan-app/index.html",
-    "main.d1d13507.css.map": "/japan-app/static/css/main.d1d13507.css.map",
-    "main.6b9fa419.js.map": "/japan-app/static/js/main.6b9fa419.js.map"
+    "main.d3940a3e.css.map": "/japan-app/static/css/main.d3940a3e.css.map",
+    "main.1e7a23cf.js.map": "/japan-app/static/js/main.1e7a23cf.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1d13507.css",
-    "static/js/main.6b9fa419.js"
+    "static/css/main.d3940a3e.css",
+    "static/js/main.1e7a23cf.js"
   ]
 }
